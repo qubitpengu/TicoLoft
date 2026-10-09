@@ -1,0 +1,27 @@
+{
+  "sources": [
+    {
+      "label": "Mi colección de GBA",
+      "id": "ID_DE_TU_COLECCION",
+      "target": "gba",
+      "enabled": false
+    }
+  ],
+  "supportedTargets": [
+    "gba",
+    "nes",
+    "snes",
+    "wii",
+    "gc",
+    "genesis",
+    "master-system",
+    "game-gear",
+    "psp",
+    "psx",
+    "saturn",
+    "dc",
+    "gb",
+    "gbc",
+    "sega-cd"
+  ]
+}
